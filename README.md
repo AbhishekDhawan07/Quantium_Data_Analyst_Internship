@@ -40,7 +40,7 @@ This repository contains my work for the **Quantium Data Analyst Internship**, h
 Quantium_Data_Analyst_Internship/
 │
 │
-└── Quantium Data Analytics - Forage Virtual Internship/
+└── Quantium Data Analyst Internship/
     ├── Task_1_-_Quantium_-_Forage_data_Analytics_Internship.ipynb
     ├── Task_2_-_Quantium_Data_Analytics_-_Forage_Internship.ipynb
     ├──📄 README.md
