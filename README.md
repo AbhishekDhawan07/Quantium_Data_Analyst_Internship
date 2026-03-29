@@ -15,8 +15,8 @@
 - [Certificate](#-certificate)
 - [Repository Structure](#-repository-structure)
 - [Tech Stack](#-tech-stack)
-- [Task 1 — Data Preparation & Customer Analytics](#-task-1--data-preparation--customer-analytics)
-- [Task 2 — Experimentation & Uplift Testing](#-task-2--experimentation--uplift-testing)
+- [Task 1 - Data Preparation & Customer Analytics](#-task-1--data-preparation--customer-analytics)
+- [Task 2 - Experimentation & Uplift Testing](#-task-2--experimentation--uplift-testing)
 - [Key Insights & Findings](#-key-insights--findings)
 - [Acknowledgements](#-acknowledgements)
 
